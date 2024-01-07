@@ -1,6 +1,3 @@
-[submodule "PhotosCapacitorApp"]
-	path = PhotosCapacitorApp
-	url = git@github.com:rinkaaan/PhotosCapacitorApp.git
 [submodule "PhotosApi"]
 	path = PhotosApi
 	url = git@github.com:rinkaaan/PhotosApi.git
