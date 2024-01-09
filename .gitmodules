@@ -1,3 +1,9 @@
 [submodule "PhotosApi"]
 	path = PhotosApi
 	url = git@github.com:rinkaaan/PhotosApi.git
+[submodule "PythonUtils"]
+	path = PythonUtils
+	url = git@github.com:rinkaaan/PythonUtils.git
+[submodule "PhotosModels"]
+	path = PhotosModels
+	url = git@github.com:rinkaaan/PhotosModels.git
