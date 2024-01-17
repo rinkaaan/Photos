@@ -7,3 +7,9 @@
 [submodule "PhotosModels"]
 	path = PhotosModels
 	url = git@github.com:rinkaaan/PhotosModels.git
+[submodule "PhotosApiTests"]
+	path = PhotosApiTests
+	url = git@github.com:rinkaaan/PhotosApiTests.git
+[submodule "PhotosApp"]
+	path = PhotosApp
+	url = git@github.com:rinkaaan/PhotosApp.git
